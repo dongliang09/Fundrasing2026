@@ -178,5 +178,36 @@
     "image": "https://lh3.googleusercontent.com/pw/AP1GczMO99HEtllEPZehwbCAalhGWc3fdBrea5vd1zQO17u450j8LrgFyaGljR_yYsIVOZKjHkDYLSfvSGvs0FsITuKY6hgP_51MEsebrS09f5BYI8m43pI=w1920-h1080",
     "conidition": "Good",
     "status": "In Stock"
-  }
+  },
+  {
+    "id": 21,
+    "name": "Marble maze",
+    "category": "Toy",
+    "price": 50,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczOnkkCLPv2b-FnRYnN78m7uMAZu1Q6gR1e36I5cg4UpYRuPJym4dk5dwDBDEiVwENxiY1cxGQPgxsg8zPtb8uoo7PfY6CkD3Qg5PTP4Yhezew681Rc=w1920-h1080",
+    "conidition": "Good",
+    "status": "In Stock"
+  },
+  {
+    "id": 22,
+    "name": "Salomon 60T Size 23-23.5 (US Women 5.5 to 6.5 /youth sizing) Sole Length 275mm",
+    "category": "Sports",
+    "price": 20,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczOYeXT8bT8cWHmsB7BmFufRtXe6lXB_o5WItbV7dy_Kbsepai46lSvJgYynBPK2ibYNZyDDLdbJboq_cFtzyp8IQ6RgeEfnbO0DrEgwSwhQeMYmWZ4=w1920-h1080",
+    "conidition": "Fair",
+    "status": "In Stock"
+  },
+  {
+    "id":23,"name":"Lambeth Taupe Nubuck Men Size US 9.5","category":"Shoe","prize":75,
+    "image": "https://lh3.googleusercontent.com/pw/AP1GczNymnIbxr8rXqws8-9_Dq7OBvrfs_h-XtKcE55MmFBIacHLgnpg3ik21Go4VlB-jSs808n4B6VTC4N44ZrYob7E2j1oOA5N7sXxGmBxYIwTuSTC8rM=w1920-h1080",
+    "condition":"Good","status":"In stock"},
+    {"id":24,"name":"Capi Brown Marron Men Size 9.5","category":"Shoe","prize":80,
+    "image":"https://lh3.googleusercontent.com/pw/AP1GczOX6gSmuv9rkS-Z7CkuiadG2sJeTTbMkjK9Zly97C4cNV9wqwXBv8hC-ZIm-TYKrLzJsvIzBxa2vWMzt6AlohBucAsDOBn_l1RgdVMoGQciqVoN3mo=w1920-h1080",
+    "condition":"Good","status":"In stock"},
+    {"id":25,"name":"K2 Omni Jr. 124 Cm Skis Downhill Gray Youth BARE SKI ONLY","category":"Sport","prize":80,
+    "image":"https://lh3.googleusercontent.com/pw/AP1GczPHxZJv7C35gpTB3kHopP7E9wjAHoJSjfhQcLl334F8HAuIcqaFP1aeEfD32HaOJTYIqLU9LpRplUOv2B9lXSFMLSJIFgR1nYVy9kKSB-clN96WnsA=w1920-h1080",
+    "condition":"Good ","status":"In stock"},
+    {"id":26,"name":"UANAX Anti Barking Device","category":"Pet","prize":20,
+    "image":"https://lh3.googleusercontent.com/pw/AP1GczPd8Z8YhjX-HPZrPSkSLuh29wr6TeTyw_VODp-3jUdKfkSQ6h5C9fl_9gOKRvrs2HiJrz6TbEYU3MeiA_Ya8wUtlGh5yZaJw8RUQDN2IrofPmE0NbI=w1920-h1080",
+    "condition":"Good","status":"In stock"}
 ]
